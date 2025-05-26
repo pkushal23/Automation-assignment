@@ -1,6 +1,6 @@
 Email Automation
 
-This project is part of Python Automation Intern - Assignment . This project contains scripts that generates messages from the dataset.
+This project is part of Python Automation Intern - Assignment . This project contains scripts that generates messages based on joining of events from the dataset.
 
 
 
